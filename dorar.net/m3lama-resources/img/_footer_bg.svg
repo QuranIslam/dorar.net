@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="532px" viewBox="0 0 1440 532" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>_footer_bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="5.55111512e-15%" x2="50%" y2="139.699612%" id="linearGradient-1">
+            <stop stop-color="#F2F2F2" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,165.440682 C83.6088964,69.9056943 205.932648,15.2061663 366.971255,1.34209817 C528.009862,-12.52197 987.019444,81.0273337 1744,281.990009 L1744,817 L0,817 L0,165.440682 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.646228609">
+        <g id="home-copy-13" transform="translate(0.000000, -2173.000000)">
+            <g id="Group-3" transform="translate(-462.000000, -382.000000)">
+                <g id="Group-26" transform="translate(419.000000, 2470.000000)">
+                    <g id="_footer_bg" transform="translate(23.000000, 85.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

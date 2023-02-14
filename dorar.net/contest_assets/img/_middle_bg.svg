@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="589px" viewBox="0 0 1440 589" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>_middle_bg</title>
+    <defs>
+        <linearGradient x1="50%" y1="5.55111512e-15%" x2="50%" y2="139.699612%" id="linearGradient-1">
+            <stop stop-color="#F2F2F2" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="139.699612%" x2="50%" y2="5.55111512e-15%" id="linearGradient-2">
+            <stop stop-color="#F2F2F2" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-16" transform="translate(0.000000, -879.000000)">
+            <g id="_middle_bg" transform="translate(-680.000000, -1246.000000)">
+                <g transform="translate(304.000000, 2040.000000)">
+                    <rect id="Rectangle-Copy" fill="url(#linearGradient-1)" transform="translate(1878.699976, 336.699994) rotate(-35.000000) translate(-1878.699976, -336.699994) " x="1637.19998" y="95.1999984" width="482.999992" height="482.999992" rx="41.9999993"></rect>
+                    <rect id="Rectangle-Copy-2" fill="url(#linearGradient-2)" transform="translate(336.699994, 406.699993) rotate(-35.000000) translate(-336.699994, -406.699993) " x="95.1999984" y="165.199997" width="482.999992" height="482.999992" rx="41.9999993"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
